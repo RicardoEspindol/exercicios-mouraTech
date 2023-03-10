@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "font-cronometro";
+    src: url("../public/fonts/Genos-Italic-VariableFont_wght.ttf");
+}
+
+.cronometro{
+    font-family: 'font-cronometro';
+}
