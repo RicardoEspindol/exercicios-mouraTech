@@ -1,13 +1,19 @@
 import React from "react";
-import Timer from "./components/exemplo1";
 import ReactDOM from "react-dom/client";
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import routes from './routes';
 import "./index.css"
 
 
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+const router = createBrowserRouter(routes);
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <>
-        <Timer start={0} ms={1000}></Timer>
-    </>
-)
+  <React.StrictMode>
+    <RouterProvider router={router} />
+  </React.StrictMode>,
+);
