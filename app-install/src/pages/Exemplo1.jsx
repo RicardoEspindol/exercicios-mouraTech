@@ -1,9 +1,9 @@
-import React, { useEffect, useState } from "react"
+import React, { useEffect, useState } from 'react';
+import Menu from '../components/Menu';
 
 
 function Exemplo1(){
     const [count, setCount] = useState(0);
-    let contagem2 = 0;
 
     useEffect(() => {
         document.title = `Você clicou ${count} vezes`;
@@ -15,10 +15,15 @@ function Exemplo1(){
     }
 
     return(
-        <div className="flex flex-col items-center justify-center h-screen">
-            <h1>Contagem {count}</h1>
-            <button onClick={incrementar}>Adicionar</button>
-
+        <div>
+            <Menu />
+                <div>
+                    <h1>Contagem: {count}</h1>
+                                <button onClick={incrementar} className="bg-azulEscuro text-branco rounded-lg w-24">
+                    Adcionar
+                                </button>
+                </div>
+      
         </div>
     )
 }
