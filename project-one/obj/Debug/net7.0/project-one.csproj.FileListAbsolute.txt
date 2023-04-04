@@ -1,0 +1,15 @@
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/bin/Debug/net7.0/project-one
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/bin/Debug/net7.0/project-one.deps.json
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/bin/Debug/net7.0/project-one.runtimeconfig.json
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/bin/Debug/net7.0/project-one.dll
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/bin/Debug/net7.0/project-one.pdb
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.csproj.AssemblyReference.cache
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.GeneratedMSBuildEditorConfig.editorconfig
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.AssemblyInfoInputs.cache
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.AssemblyInfo.cs
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.csproj.CoreCompileInputs.cache
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.dll
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/refint/project-one.dll
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.pdb
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/project-one.genruntimeconfig.cache
+/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/Debug/net7.0/ref/project-one.dll
