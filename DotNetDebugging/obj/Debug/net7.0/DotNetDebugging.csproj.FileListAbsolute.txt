@@ -1,0 +1,15 @@
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.exe
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.deps.json
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.dll
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\bin\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.dll
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\refint\DotNetDebugging.dll
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.pdb
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\DotNetDebugging\obj\Debug\net7.0\ref\DotNetDebugging.dll

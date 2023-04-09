@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/project-one.csproj": {}
+    "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\project-one\\project-one.csproj": {}
   },
   "projects": {
-    "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/project-one.csproj": {
+    "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\project-one\\project-one.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/project-one.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\project-one\\project-one.csproj",
         "projectName": "project-one",
-        "projectPath": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/project-one.csproj",
-        "packagesPath": "/home/20211ewbj0060/.nuget/packages/",
-        "outputPath": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/project-one/obj/",
+        "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\project-one\\project-one.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\project-one\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/20211ewbj0060/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
