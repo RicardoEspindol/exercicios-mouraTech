@@ -1,0 +1,15 @@
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\bin\Debug\net7.0\stepTwo.exe
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\bin\Debug\net7.0\stepTwo.deps.json
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\bin\Debug\net7.0\stepTwo.runtimeconfig.json
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\bin\Debug\net7.0\stepTwo.dll
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\bin\Debug\net7.0\stepTwo.pdb
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.csproj.AssemblyReference.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.AssemblyInfoInputs.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.AssemblyInfo.cs
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.dll
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\refint\stepTwo.dll
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.pdb
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\stepTwo.genruntimeconfig.cache
+C:\Users\ricar\OneDrive\Documentos\mouraTech\cloneC#\exercicios-mouraTech\C#\stepTwo\obj\Debug\net7.0\ref\stepTwo.dll
