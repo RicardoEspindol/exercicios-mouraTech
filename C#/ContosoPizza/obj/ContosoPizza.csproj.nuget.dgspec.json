@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\ContosoPizza\\ContosoPizza.csproj": {}
+    "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/C#/ContosoPizza/ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\ContosoPizza\\ContosoPizza.csproj": {
+    "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/C#/ContosoPizza/ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/C#/ContosoPizza/ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\ContosoPizza\\ContosoPizza.csproj",
-        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\ContosoPizza\\obj\\",
+        "projectPath": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/C#/ContosoPizza/ContosoPizza.csproj",
+        "packagesPath": "/home/20211ewbj0060/.nuget/packages/",
+        "outputPath": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/C#/ContosoPizza/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/20211ewbj0060/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -54,6 +54,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -62,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

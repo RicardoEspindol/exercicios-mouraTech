@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "5kweWucdzGF5tQDePtXyy8Vb/p/rlLmYb3M9xvHA1+c/3ecM7ff8VReiSBC2jkV4pMYgu0dtxM120PwDMdYyhA==",
+  "dgSpecHash": "3DiwYl6YbfyXNDZuJBLXNetWQFxgnGgEnT97kSOqdxX+P81QTSHDYrM+/Rwwi9Suz6ighvhpWYmn4NCC0sVQZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricar\\OneDrive\\Documentos\\mouraTech\\cloneC#\\exercicios-mouraTech\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "/home/20211ewbj0060/Documentos/mouraTech/cloneGitMoura/exercicios-mouraTech/C#/ContosoPizza/ContosoPizza.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\ricar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\ricar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\ricar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\ricar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/20211ewbj0060/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/home/20211ewbj0060/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.15/microsoft.netcore.app.host.linux-x64.6.0.15.nupkg.sha512"
   ],
   "logs": []
 }
